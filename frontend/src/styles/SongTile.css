@@ -1,0 +1,25 @@
+.song-tile {
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  color: #333;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.song-tile:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.song-tile h3 {
+  font-size: 1.2rem;
+  margin: 0 0 10px;
+}
+
+.song-tile p {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 0;
+}

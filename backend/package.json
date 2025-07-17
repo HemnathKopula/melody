@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "flask": "^0.2.10",
+    "pandas": "^0.0.3",
+    "surprise": "^0.0.4"
+  }
+}
